@@ -1,0 +1,27 @@
+result = {"UNet": {
+
+	"Class1_IoU": 0.68383752,
+ 
+	"Class2_IoU": 0.81112052,
+
+	"Class3_IoU": 0.76578402,
+
+	"mIoU": 75.3581,
+	
+	"FPS": 16,
+	
+	"Parameters" : 94.5   },
+	"OurModel": {
+
+	"Class1_IoU": 0.77460139,
+
+	"Class2_IoU":0.84808381,
+
+	"Class3_IoU": 0.81472075,
+
+	"mIoU": 81.2469,
+	
+	"FPS": 16,
+	
+	"Parameters" : 1.115
+}
